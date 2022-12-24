@@ -1,0 +1,15 @@
+C:\Users\ProBook\Desktop\Exceptions-24.12.22\Exceptions-24.12.22\bin\Debug\net6.0\Exceptions-24.12.22.exe
+C:\Users\ProBook\Desktop\Exceptions-24.12.22\Exceptions-24.12.22\bin\Debug\net6.0\Exceptions-24.12.22.deps.json
+C:\Users\ProBook\Desktop\Exceptions-24.12.22\Exceptions-24.12.22\bin\Debug\net6.0\Exceptions-24.12.22.runtimeconfig.json
+C:\Users\ProBook\Desktop\Exceptions-24.12.22\Exceptions-24.12.22\bin\Debug\net6.0\Exceptions-24.12.22.dll
+C:\Users\ProBook\Desktop\Exceptions-24.12.22\Exceptions-24.12.22\bin\Debug\net6.0\Exceptions-24.12.22.pdb
+C:\Users\ProBook\Desktop\Exceptions-24.12.22\Exceptions-24.12.22\obj\Debug\net6.0\Exceptions-24.12.22.csproj.AssemblyReference.cache
+C:\Users\ProBook\Desktop\Exceptions-24.12.22\Exceptions-24.12.22\obj\Debug\net6.0\Exceptions-24.12.22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ProBook\Desktop\Exceptions-24.12.22\Exceptions-24.12.22\obj\Debug\net6.0\Exceptions-24.12.22.AssemblyInfoInputs.cache
+C:\Users\ProBook\Desktop\Exceptions-24.12.22\Exceptions-24.12.22\obj\Debug\net6.0\Exceptions-24.12.22.AssemblyInfo.cs
+C:\Users\ProBook\Desktop\Exceptions-24.12.22\Exceptions-24.12.22\obj\Debug\net6.0\Exceptions-24.12.22.csproj.CoreCompileInputs.cache
+C:\Users\ProBook\Desktop\Exceptions-24.12.22\Exceptions-24.12.22\obj\Debug\net6.0\Exceptions-24.12.22.dll
+C:\Users\ProBook\Desktop\Exceptions-24.12.22\Exceptions-24.12.22\obj\Debug\net6.0\refint\Exceptions-24.12.22.dll
+C:\Users\ProBook\Desktop\Exceptions-24.12.22\Exceptions-24.12.22\obj\Debug\net6.0\Exceptions-24.12.22.pdb
+C:\Users\ProBook\Desktop\Exceptions-24.12.22\Exceptions-24.12.22\obj\Debug\net6.0\Exceptions-24.12.22.genruntimeconfig.cache
+C:\Users\ProBook\Desktop\Exceptions-24.12.22\Exceptions-24.12.22\obj\Debug\net6.0\ref\Exceptions-24.12.22.dll
